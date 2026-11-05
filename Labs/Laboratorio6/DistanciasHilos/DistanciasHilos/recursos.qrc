@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>distancias_manhattan_euclides.csv</file>
+    </qresource>
+</RCC>
